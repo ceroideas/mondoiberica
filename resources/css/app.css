@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Nunito+Sans:wght@400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.accepted{
+    @apply bg-green-600;
+}
+
+.under-review{
+    @apply bg-orange-500;
+}
+
+.pending{
+    @apply bg-sky-500;
+}
+
+.rejected{
+    @apply bg-red-500;
+}
+
+tr {
+    @apply h-14;
+}
+
+th {
+    /* border-spacing: 100px 0px; */
+}

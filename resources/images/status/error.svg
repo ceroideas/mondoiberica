@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="a" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 73 72" style="enable-background:new 0 0 73 72;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#EF4444;}
+</style>
+<g id="b" transform="translate(2.5 0.561)">
+	<g id="c" transform="translate(-2.5 -0.561)">
+		<ellipse class="st0" cx="36.5" cy="36.2" rx="36.5" ry="36"/>
+		<path class="st1" d="M36.5,72.2C16.4,72.2,0,56,0,36.2s16.4-36,36.5-36S73,16.3,73,36.2S56.6,72.2,36.5,72.2z M36.5,3.2
+			C18,3.2,3,18,3,36.2s15,33,33.5,33S70,54.4,70,36.2S55,3.2,36.5,3.2z"/>
+	</g>
+	<path class="st1" d="M36.1,36.5l11.8-11.8c0.6-0.6,0.6-1.5,0-2.1c-0.6-0.6-1.5-0.6-2.1,0L34,34.4L22.2,22.6c-0.6-0.6-1.5-0.6-2.1,0
+		c-0.6,0.6-0.6,1.5,0,2.1l11.8,11.8L20.1,48.3c-0.6,0.6-0.6,1.5,0,2.1c0.3,0.3,0.7,0.4,1.1,0.4s0.8-0.2,1.1-0.4L34,38.6l11.8,11.8
+		c0.3,0.3,0.7,0.4,1.1,0.4c0.4,0,0.8-0.2,1.1-0.4c0.6-0.6,0.6-1.5,0-2.1C47.9,48.3,36.1,36.5,36.1,36.5z"/>
+</g>
+</svg>

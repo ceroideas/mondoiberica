@@ -1,0 +1,1 @@
+<div class="bg-red-50 bg-blue-50 bg-green-50 bg-orange-50 bg-red-500 bg-blue-500 bg-green-500 bg-orange-500 bg-red bg-blue bg-green bg-orange text-red-500 text-blue-500 text-green-500 text-orange-500"></div>
